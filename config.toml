@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#8A2BE2" # A modern, vibrant purple accent
+backgroundColor = "#0E1117" # Deep dark background
+secondaryBackgroundColor = "#1E212B" # Slightly lighter dark for sidebars/cards
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[client]
+# Hides the red "running" man in the top right
+showSidebarNavigation = false

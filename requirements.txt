@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+PyPDF2
+pdfplumber
+streamlit-mic-recorder
+gTTS

@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / Secrets
+.env
+.streamlit/secrets.toml
+config.toml  # Remove this line if config.toml DOES NOT contain sensitive API keys
+
+# Database (If your database.py generates a local SQLite file you want to ignore)
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
